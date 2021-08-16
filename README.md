@@ -1,3 +1,3 @@
 ...
 
-(c) 2021 izer.xyz . All rights reserved. 
+(c) 2021 [izer.xyz] . All rights reserved. 
