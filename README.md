@@ -1,4 +1,4 @@
-> “the agent which makes what is denoted by the noun/adjective“
+> “the _agent_ which makes what is denoted by the _noun/adjective_“
 
 ...
 
